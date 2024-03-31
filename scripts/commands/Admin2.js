@@ -21,7 +21,7 @@ const fs = global.nodemodule["fs-extra"];
 var link =["https://i.postimg.cc/XvpMFyfN/inbound3590583014597860497.jpg",
 "https://i.postimg.cc/XvpMFyfN/inbound3590583014597860497.jpg"];
   
-var callback = () => api.sendMessage({body:`DO NOT TRUST THE BOT OPERATOR
+var callback = () => api.sendMessage({body:`𝙳𝙴𝚃𝙰𝙸𝙻𝚂 𝙾𝙵 𝙶𝚁𝙾𝚄𝙿 𝙰𝙳𝙼𝙸𝙽 
 --------------------------------------------
 𝐍𝐚𝐦𝐞       : 𝗔𝗕𝗗𝗨𝗟 𝗚𝗢𝗡𝗜 𝗦𝗛𝗔𝗪𝗢𝗡
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : 𝐌𝐃 𝐆𝐎𝐍𝐈
@@ -34,7 +34,7 @@ var callback = () => api.sendMessage({body:`DO NOT TRUST THE BOT OPERATOR
 𝐖𝐨𝐫𝐤        : 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
 𝐆𝐦𝐚𝐢𝐥       : abdulgonishawon@gmail.com
 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/+8801615804476
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  : 𝐍𝐀𝐈
+𝐏𝐡𝐨𝐧𝐞𝐍𝐮𝐦𝐛𝐞𝐫  : +8801615804476 𝐨𝐫 +8801719811456
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤 : https://www.facebook.com/goni2005
  https://www.facebook.com/gaminggoni2005
 `,attachment: fs.createReadStream(__dirname + "/cache/juswa.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/juswa.jpg")); 
