@@ -6,7 +6,7 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "JOY_--_BOT😻",
+  "BOTNAME": "GONI_BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100065050393649",
@@ -20,7 +20,7 @@
         "100014491279320",
         "100080258208942"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100068498013334"], 
   "APPROVED": [],
   "disabledcmds": [
   ],
